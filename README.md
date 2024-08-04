@@ -1,7 +1,7 @@
 # ncpipes
 
 ## Archivation note
-This is an old miniproject from 2023. Look at remake (rxpipes)[https://github.com/inunix3/rxpipes] which is cooler.
+This is an old miniproject from 2023. Look at remake [rxpipes](https://github.com/inunix3/rxpipes) which is cooler.
 
 ## Original README
 
